@@ -1,5 +1,26 @@
-<h1 align="center">Hi 👋, I'm Bernad</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h1 align="center">👋, Hello World!</h1>
+<h3 align="center">I'm Bernad, an Innovation and Tech Enthusiast from India. Passionate about melding technology with creativity to develop groundbreaking solutions!</h3>
+
+---
+
+## 🛠️ Tech Stack & Interests
+
+- **Languages**: Python 🐍 | C++ | CAPL
+- **Hardware Development**: Expertise in using development boards for prototyping.
+- **Automation & Testing**: Proficient with Python and CAPL for robust testing solutions.
+- **HIL (Hardware-in-the-Loop) Testing**: Extensive experience in HIL setups for automotive software flashing and testing.
+- **3D Technology**: Skilled in 3D modeling and printing - bringing ideas to tangible reality!
+  
+---
+
+## 🎧 Personal Interests
+
+- **Music** 🎶: From classical to contemporary, music fuels my creativity.
+- **Movies** 🎬: A cinephile who loves getting lost in different worlds.
+- **Outdoor Activities**: Hiking trails? Count me in! 🏞️
+- **Sports**: Football ⚽ is my jam! Whether playing on the field or cheering from the stands.
+
+---
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bernadkb" alt="bernadkb" /></a> </p>
 
