@@ -22,6 +22,14 @@
 
 ---
 
+Feel free to check out some of my repositories below to get a taste of my work. If you have innovative ideas or projects that align with my skills and interests, don't hesitate to reach out! Let's innovate together! 💡
+
+---
+
+⭐ Don't forget to star some of my favorite repos and fork if you find something interesting!
+
+---
+
 > "Innovation is change that unlocks new value." - Jamie Notter
 
 --- 
@@ -38,3 +46,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bernadkb&show_icons=true&locale=en&layout=compact" alt="bernadkb" /></p>
 
+
+<p><a href="https://seeklogo.com/vector-logo/453433/one-piece" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/O/one-piece-logo-14D1E5876D-seeklogo.com.png" alt="onepiece" width="55" height="90"/> </a></p>
+"Onepiece is real"
