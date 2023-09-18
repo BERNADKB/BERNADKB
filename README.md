@@ -47,5 +47,5 @@ Feel free to check out some of my repositories below to get a taste of my work. 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bernadkb&show_icons=true&locale=en&layout=compact" alt="bernadkb" /></p>
 
 
-<p><a href="https://seeklogo.com/vector-logo/453433/one-piece" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/O/one-piece-logo-14D1E5876D-seeklogo.com.png" alt="onepiece" width="55" height="90"/> </a></p>
-"Onepiece is real"
+<p><a href="https://seeklogo.com/vector-logo/453433/one-piece" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/O/one-piece-logo-14D1E5876D-seeklogo.com.png" alt="onepiece" width="55" height="90"/>  </a> "Onepiece is real" </p>
+
