@@ -5,7 +5,7 @@
 
 ## 🛠️ Tech Stack & Interests
 
-- **Languages**: Python 🐍 | C++ | CAPL
+- **Languages**: Python 🐍 | C++ | CAPL | ROS2 
 - **Hardware Development**: Expertise in using development boards for prototyping.
 - **Automation & Testing**: Proficient with Python and CAPL for robust testing solutions.
 - **HIL (Hardware-in-the-Loop) Testing**: Extensive experience in HIL setups for automotive software flashing and testing.
